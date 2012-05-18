@@ -1,11 +1,12 @@
-Iphone unlock Animate effect
+CSS3 simple animated text gradient effect
 
-Include the iphoneUnlockEffect.js
+Include the textGradientEffect.js
 
 Add class "slideEffect" to the div surrounding the text
 and add a unique id to it .(data-id).
+
 This is my first project in jquery. I hope i'll find a way so that data-id it not needed.
 
 <div class="slideEffect" data-id="1">
-   		<h1>This will shine on hover ... and some useless text here just to show the effect</h1>
+   <h1>This will shine on hover ... and some useless text here just to show the effect</h1>
 </div>
